@@ -1,0 +1,31 @@
+﻿@model List<eticaretproje.Models.Kategoriler>
+    @{
+        ViewBag.Title = "altkategori";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12">
+            <div class="container">
+                <label>Kategori</label>
+                <br />
+                <form method="post">
+                    <div>
+                        @Html.DropDownList("Id", (List<SelectListItem>)ViewBag.kategori, htmlAttributes: new { @class = "form-control" })
+
+                    </div>
+                    <br />
+                    <label>Alt kategori</label>
+                    <br />
+                    <input class="col-4" type="text" name="Tanim" />
+                    <br />
+                    <br />
+                    <button type="submit" class="btn btn-primary">Kaydet</button>
+
+                </form>
+                @Html.Action("kategoriliste", "Kategoriler");
+                              
+            </div>
+        </div>
+    </div>
+

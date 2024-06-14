@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\views\\kategoriler\\altkategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|solutionrelative:eticaretproje\\views\\kategoriler\\altkategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\controllers\\kategorilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|solutionrelative:eticaretproje\\controllers\\kategorilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\views\\kategoriler\\liste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|solutionrelative:eticaretproje\\views\\kategoriler\\liste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|c:\\users\\gizem\\desktop\\eticaret\\eticaretproje\\eticaretproje\\views\\kategoriler\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|solutionrelative:eticaretproje\\views\\kategoriler\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\views\\shared\\_sabitmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|solutionrelative:eticaretproje\\views\\shared\\_sabitmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC9B0CD-4BA0-4F04-B226-770EF119B589}|eticaretproje\\eticaretproje.csproj|solutionrelative:eticaretproje\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Sabitmenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Shared\\_Sabitmenu.cshtml",
+              "RelativeDocumentMoniker": "eticaretproje\\Views\\Shared\\_Sabitmenu.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Shared\\_Sabitmenu.cshtml",
+              "RelativeToolTip": "eticaretproje\\Views\\Shared\\_Sabitmenu.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:32:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Liste.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Kategoriler\\Liste.cshtml",
+              "RelativeDocumentMoniker": "eticaretproje\\Views\\Kategoriler\\Liste.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Kategoriler\\Liste.cshtml",
+              "RelativeToolTip": "eticaretproje\\Views\\Kategoriler\\Liste.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:12:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "eticaretproje\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "eticaretproje\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:57:45.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "altkategori.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Kategoriler\\altkategori.cshtml",
+              "RelativeDocumentMoniker": "eticaretproje\\Views\\Kategoriler\\altkategori.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Kategoriler\\altkategori.cshtml",
+              "RelativeToolTip": "eticaretproje\\Views\\Kategoriler\\altkategori.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:01:31.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Kategoriler\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "eticaretproje\\Views\\Kategoriler\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Views\\Kategoriler\\Ekle.cshtml",
+              "RelativeToolTip": "eticaretproje\\Views\\Kategoriler\\Ekle.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:55:26.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KategorilerController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Controllers\\KategorilerController.cs",
+              "RelativeDocumentMoniker": "eticaretproje\\Controllers\\KategorilerController.cs",
+              "ToolTip": "C:\\Users\\Gizem\\Desktop\\Eticaret\\eticaretproje\\eticaretproje\\Controllers\\KategorilerController.cs",
+              "RelativeToolTip": "eticaretproje\\Controllers\\KategorilerController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:17:42.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <script src="~/Scripts/jquery-1.6.3.min.js"></script>
+    <script src="~/Scripts/toastr.min.js"></script>
+    <link href="~/Content/toastr.min.css" rel="stylesheet" />
+
+</head>
+<div class="span3">
+    <form method="post">
+
+        <h3>Kategori Ekle</h3>
+        &nbsp;  <input type="text" name="Tanim" class="span3" />
+        <button type="submit" class="btn btn-success">Kaydet</button>
+    </form>
+    <br/>
+       
+   <div class="container">
+        <div class="table-responsive">
+            @Html.Action("kategoriliste", "Kategoriler");
+                           
+
+        </div>
+       </div>
+
+
+
+    @if (TempData["sonuc"] != null && TempData["sonuc"].ToString() == "1")
+    {
+        <script type="text/javascript">
+            toastr["info"]("Kayıt eklendi.", "Mesaj")
+
+        </script>
+    }
+
+</div>
+
+

@@ -1,0 +1,19 @@
+FormsAuthentication.SetAuthCookie() 
+
+Bu kod, ASP.NET platformunda kullanıcı oturum yönetimi için kullanılan bir yöntem olan Forms Authentication'ı kullanıyor. Kodun çalıştırıldığı ortamda, kullanıcı adı ve parola gibi kimlik bilgileriyle kullanıcıların giriş yapmasını sağlar.
+
+FormsAuthentication.SetAuthCookie() yöntemi, kullanıcıyı doğruladıktan sonra bir oturum çerezi oluşturur ve bu çerezi tarayıcıya gönderir. Bu, kullanıcının tarayıcıda oturum açıkken, sunucunun gelecek isteklerinde kullanıcının kimliğini tanıyabilmesini sağlar.
+------------------------------------------------------------------------------
+HttpCookie sınıfı, web uygulamalarının tarayıcıda bilgi saklamasını ve bu bilgiyi sonraki isteklerde kullanmasını sağlayarak kullanıcı deneyimini iyileştirmeye yardımcı olur.
+------------------------------------------------------
+"Authentication" (Kimlik doğrulama), bir kullanıcının veya bir sistemin, kimliklerinin (genellikle bir kullanıcı adı ve şifre gibi) gerçek ve geçerli olduğunu doğrulama işlemidir.
+
+Authorize, bir web uygulamasında kullanıcıların erişim yetkilerini kontrol etmek için kullanılan bir terimdir. Bir kullanıcının belirli bir kaynağa (sayfa, işlem, API rotası vb.) erişimine izin verilip verilmeyeceğini belirlemek için kullanılır.
+------------------------------------------------------------------------------protected override bool AuthorizeCore(HttpContextBase httpContext) ifadesi, ASP.NET MVC'de veya ASP.NET Core MVC'de bir denetleyici veya bir özellik filtresinde kullanılan bir yöntemi temsil eder. Bu yöntem, belirli bir HTTP isteğinin (HTTP context) kimlik doğrulama durumunu kontrol etmek için kullanılır.
+----------------------------------------------------------------------
+"toastr", web uygulamalarında kullanılan bir JavaScript kütüphanesidir ve kullanıcıya bildirim mesajları göstermek için kullanılır. Bildirim mesajları genellikle kullanıcıya bir işlemin başarıyla tamamlandığını, bir hata olduğunu veya bir uyarı olduğunu bildirmek için kullanılır.
+-----------------------------------------------------------------------
+FirstOrDefault, LINQ (Language Integrated Query) ile ilişkilendirilen bir metoddur ve bir sorgunun sonucunda bir koleksiyonun ilk öğesini veya belirli bir koşulu sağlayan ilk öğeyi döndürmek için kullanılır. Özellikle C# gibi programlama dillerinde sıkça kullanılır. Bu metod, koleksiyonlarda belirli bir koşulu sağlayan bir öğe bulunup bulunmadığını kontrol etmek ve bu öğeyi almak için oldukça kullanışlıdır. Eğer koleksiyonda belirtilen koşulu sağlayan bir öğe yoksa, varsayılan olarak tipin varsayılan değerini döndürür. Bu metod, null döndürme riskini azaltır ve kodun daha güvenli olmasını sağlar.
+------------------------------------------------------------------------
+@Html.AntiForgeryToken() metodu, Cross-Site Request Forgery (CSRF) saldırılarına karşı koruma sağlamak için bir anti-forgery token'ı oluşturur.
+-------------------------------------------------------------------------
